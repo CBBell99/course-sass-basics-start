@@ -1,0 +1,23 @@
+{
+  "name": "course-sass-basics-start",
+  "version": "1.0.0",
+  "description": "## Overview These are the starter files for the project of our Learn SASS Basics course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CBBell99/course-sass-basics-start.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CBBell99/course-sass-basics-start/issues"
+  },
+  "homepage": "https://github.com/CBBell99/course-sass-basics-start#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
